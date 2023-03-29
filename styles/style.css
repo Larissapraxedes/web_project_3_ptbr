@@ -3,16 +3,12 @@
     max-width: 1280px;
     margin: 0 auto;
     font-family: 'Inter', Arial, sans-serif;
-    position: relative;
-    max-height: 7473px;
     background: #2A2C2F;
 }
 
 /*--------------------------HEADER--------------------------*/
 
 .header {
-    min-height: 983px;
-    max-height: 984px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -42,14 +38,13 @@
 .logo {
     width: 270px;
     height: 70px;
-    padding: 34px 505px;
-    margin: 0 auto;
+    margin: 34px auto 0;
 }
 
 .header__logo {
-        margin-top: 304px;
-        justify-content: center;
-        display: grid;
+    margin-top: 304px;
+    justify-content: center;
+    display: grid;
 }
 
 
@@ -58,12 +53,5 @@
     position: relative;
     width: 984px;
     height: 615px;
-    /* left: 148px; */
-    /* top: 562px; */
-}
-
-.header__image_item {
     padding: 0 148px 94px;
-    background-color: #2A2C2F;
 }
-
