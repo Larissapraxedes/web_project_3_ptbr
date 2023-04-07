@@ -156,7 +156,11 @@ body {
     border: greenyellow solid 2px;
 }
 
-.places__gallery-one, .places__gallery-two, .places__gallery-three, .places__gallery-four, .places__gallery-five{
+.places__gallery-one,
+.places__gallery-two,
+.places__gallery-three,
+.places__gallery-four,
+.places__gallery-five {
     border: palevioletred solid 2px;
     margin: 0 auto;
     display: grid;
@@ -396,3 +400,14 @@ body {
 
 
 /*--------------------------FOOTER---------------------------*/
+
+
+.footer__author {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: -webkit-center;
+    justify-content: center;
+    color: #fff;
+}
