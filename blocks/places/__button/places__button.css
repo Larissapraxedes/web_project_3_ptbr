@@ -1,0 +1,11 @@
+.places__button {
+    display: block;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    background-color: #0278FE;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    transition: background-color 0.3s;
+}

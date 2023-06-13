@@ -1,0 +1,6 @@
+.places__gallery {
+    gap: 1rem;
+    /* width: 400px; */
+    border: greenyellow solid 2px;
+    padding: 0;
+}

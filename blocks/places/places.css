@@ -1,0 +1,10 @@
+.places {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    width: 100%;
+    padding: 0px 148px 0px 148px;
+    box-sizing: border-box;
+    /*-- border: #0278FE solid 2px; --*/
+}

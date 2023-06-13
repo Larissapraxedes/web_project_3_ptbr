@@ -1,5 +1,6 @@
 .intro {
     margin: 0 auto;
     color: #FFFFFF;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
